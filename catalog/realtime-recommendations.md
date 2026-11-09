@@ -2,7 +2,7 @@
 component_id: realtime-recommendations
 name: Realtime Recommendations
 owner: Growth Platform
-status: ga
+status: beta
 support_tier: 2
 review_cycle: quarterly
 description: Serves low-latency product recommendations from streaming behavioural features.
