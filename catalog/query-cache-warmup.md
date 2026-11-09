@@ -2,7 +2,7 @@
 component_id: query-cache-warmup
 name: Query Cache Warmup
 owner: Data Infrastructure
-status: beta
+status: ga
 support_tier: 3
 review_cycle: semi-annual
 description: Pre-warms analytical query caches after nightly warehouse loads complete.
