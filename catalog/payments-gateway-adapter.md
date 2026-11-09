@@ -2,7 +2,8 @@
 component_id: payments-gateway-adapter
 name: Payments Gateway Adapter
 owner: Payments Platform
-status: beta
+status: ga
+implementation_url: https://github.com/wholetherapi/emails_github_2638-artifact-registry/tree/main/artifacts/payments-gateway-adapter
 support_tier: 2
 review_cycle: quarterly
 description: Normalises payment-provider APIs behind a single internal charge and refund contract.
